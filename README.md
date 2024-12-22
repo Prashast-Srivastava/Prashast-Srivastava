@@ -35,10 +35,5 @@
 
 ---
 
-## Top Repositories:
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark)](https://github.com/yourusername/repo-name)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark)](https://github.com/yourusername/repo-name)
-
----
 
 ⭐️ From [Prashast-Srivastava](https://github.com/Prashast-Srivastava)

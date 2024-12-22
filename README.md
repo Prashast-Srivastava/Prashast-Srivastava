@@ -1,7 +1,5 @@
 # Hello World, It's me Prashast 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-
 ## 💼 About Me
 
 I am a passionate software developer with experience in Java, C, and Python. I love to learn new technologies and apply them in solving real-world problems.
@@ -16,13 +14,10 @@ I am a passionate software developer with experience in Java, C, and Python. I l
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 📫 Contact
+## 📫 Socials
 
 - [LinkedIn](https://www.linkedin.com/in/prashast-srivastava)
 - [Twitter](https://twitter.com/@_real_prashast_)
 - [Instagram](https://instagram.com/_prashast_srivastava_)
-- Email: purashasuto_surivu@yahoo.com.com
 
-## 🏆 GitHub Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)

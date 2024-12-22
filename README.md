@@ -20,7 +20,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) 
 
 ---
 # 📊 GitHub Stats:
@@ -29,11 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subrat-dwi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## Contributions:
-- **Total Contributions**: 640+
-- **Longest Streak**: 8 days
-- **Current Streak**: 2 days (Dec 21 - Dec 22)
 
 ---
 

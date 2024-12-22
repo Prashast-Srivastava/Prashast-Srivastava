@@ -1,4 +1,4 @@
-<h1 align="center">Hello World , It's me Prashast 😁👋</h1>
+<h1>Hello World , It's me Prashast 😁👋</h1>
 
 ---
 

@@ -1,23 +1,44 @@
-# Hello World, It's me Prashast 👋
+<h1 align="center">Hello World , It's me Prashast 😁👋</h1>
 
-## 💼 About Me
+---
 
-I am a passionate software developer with experience in Java, C, and Python. I love to learn new technologies and apply them in solving real-world problems.
+## About Me:
+- 🌱 I’m currently learning **Web Development, DSA, etc.**
+- 💻 I like problem-solving and coding.
+- 🧠 I’m always curious and eager to learn new things.
+- 🎯 I aim to improve my skills daily.
 
-## 🚀 Skills
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Socials:
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_prashast_srivastava_)
 
-## 📈 GitHub Stats
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashast-Srivastava&show_icons=true&theme=radical)
+## Tech Stack:
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📫 Socials
+---
 
-- [LinkedIn](https://www.linkedin.com/in/prashast-srivastava)
-- [Twitter](https://twitter.com/@_real_prashast_)
-- [Instagram](https://instagram.com/_prashast_srivastava_)
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashast-Srivastava &show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashast-Srivastava &layout=compact&theme=dark)
 
+---
 
+## Contributions:
+- **Total Contributions**: 640+
+- **Longest Streak**: 8 days
+- **Current Streak**: 2 days (Dec 21 - Dec 22)
+
+---
+
+## Top Repositories:
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark)](https://github.com/yourusername/repo-name)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark)](https://github.com/yourusername/repo-name)
+
+---
+
+⭐️ From [Prashast-Srivastava](https://github.com/Prashast-Srivastava)

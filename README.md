@@ -1,35 +1,17 @@
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h1>Hello World , It's me Prashast 😁👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashast-Srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="Prashast-Srivastava" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prashast-Srivastava" alt="Prashast-Srivastava" /></a> </p>
 
-## About Me:
-- 🌱 I’m currently learning **Web Development, DSA, etc.**
-- 💻 I like problem-solving and coding.
-- 🧠 I’m always curious and eager to learn new things.
-- 🎯 I aim to improve my skills daily.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_prashast_srivastava_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prashast_srivastava_" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Socials:
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_prashast_srivastava_)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashast-Srivastava&show_icons=true&locale=en&layout=compact" alt="Prashast-Srivastava" /></p>
 
----
-
-## Tech Stack:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prashast-Srivastava &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prashast-Srivastava &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashast-Srivastava&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
----
-
-
-⭐️ From [Prashast-Srivastava](https://github.com/Prashast-Srivastava)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashast-Srivastava&" alt="Prashast-Srivastava" /></p>

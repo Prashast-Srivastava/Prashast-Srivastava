@@ -1,3 +1,4 @@
+
 <h1>Hello World , It's me Prashast 😁👋</h1>
 
 ---
@@ -19,12 +20,13 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) 
 
 ---
-
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashast-Srivastava &show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashast-Srivastava &layout=compact&theme=dark)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=subrat-dwi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=subrat-dwi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subrat-dwi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 

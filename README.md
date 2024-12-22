@@ -12,7 +12,7 @@ I am a passionate software developer with experience in Java, C, and Python. I l
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashast-Srivastava&show_icons=true&theme=radical)
 
 ## 📫 Socials
 
